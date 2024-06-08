@@ -20,4 +20,4 @@ async def purge(ctx, count: int):
     await ctx.send(f"{len(deleted)} mesaj silindi.", delete_after=5)  # Silinen mesaj sayısını gönder ve 5 saniye sonra sil
 
 # Discord botunuzun token'ını buraya yapıştırın
-bot.run("MTEyMzIxODU0MzYxMDE4NzgyNg.G-4gfS.wyVHNmbxkEuvuZtBYtM6Iii_nZwpmnTx3zNEnc")
+bot.run("")
